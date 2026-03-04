@@ -1,6 +1,6 @@
 hello world
 Linus Torvalds
 Steve Jobs
-Tim Cook
+John Doe
 Elon Musk
 Another feature
